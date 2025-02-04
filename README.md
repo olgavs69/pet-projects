@@ -16,7 +16,7 @@
 * pandas
 * scipy.stats
 * matplotlib/seaborn
-* 
+
 ## 2. Классификация (ML)
 Цель:
 * Предобработать и изучить данные
