@@ -7,6 +7,8 @@
 * Обучить модели линейных класификаторов и деревьев решений
 * Сравнить исходную зависимость Survived с выбранными параметрами от полученных зависимостей
 
+Исходные данные: [titanic.csv](https://www.kaggle.com/c/titanic/data)
+
 Решение (jupyter notebook): [TITANIC](https://github.com/olgavs69/pet-projects/tree/main/titanic)
 
 Стек: 
