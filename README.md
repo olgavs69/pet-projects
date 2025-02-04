@@ -39,7 +39,7 @@
 * Обучить модели регрессий и изучить результат их работы
 * Использовать модели для предсказывания количественных переменных
 
-Исходные данные: 
+Исходные данные: [housesale.csv](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 Решение (jupyter notebook):
 
