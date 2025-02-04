@@ -1,4 +1,4 @@
-э# pet-projects
+# pet-projects
 Пет-проекты для позиции DS
 
 ## 1. Обработка и изучение данных (statistics)
@@ -44,5 +44,6 @@
 
 | **Название** | **Тема**    | **Решения**  | **Ссылка на решение**
 | :---:   | :---: | :---: |  :---: |
-| project1 | Основные понятия статистики   |  Описательные статистики |[project1](https://github.com/olgavs69/analytic_karpov/blob/main/статистика/project1.ipynb)|
+| project1 | Основные понятия статистики   |  * Описательные статистики
+                                              * Визуализация данных |[project1](https://github.com/olgavs69/analytic_karpov/blob/main/статистика/project1.ipynb)|
 
