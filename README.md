@@ -3,5 +3,6 @@
 
 ## 1. Классификация (ML)
 Обучение линейных моделей, деревьев решений для определения выживших/невыживших пассажиров титаника. 
-Ссылка: https://github.com/olgavs69/pet-projects/tree/main/titanic
+
+[TITANIC]https://github.com/olgavs69/pet-projects/tree/main/titanic
 
