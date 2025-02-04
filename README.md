@@ -50,10 +50,11 @@
 
 | **Название** | **Тема** | **Цели** | **Стек**   | **Ссылка** |
 | :---:   | :---: | :---: |  :---: |  :---: | 
-|                          |                  |                  |                  |                      |
-|                          |                  |                  |                  |                      |
-|                          |                  |                  |                  |                      |
-|                          |                  |                  |                  |                      |
-|                          |                  |                  |                  |                      |
-|                          |                  |                  |                  |                      |
+| project1                 | Основные понятия статистики                            | Описательные статистики, визуализация данных                                             | pandas, matplotlib, seaborn, scipy                                   | [project1](https://github.com/olgavs69/analytic_karpov/blob/main/статистика/project1.ipynb)                                                                                            |
+| project2                 |                                                        |                                                                                          |                                                                      |                                                                                                                                                                                        |
+| project3                 |                                                        |                                                                                          |                                                                      |                                                                                                                                                                                        |
+| project4                 |                                                        |                                                                                          |                                                                      |                                                                                                                                                                                        |
+| project5                 |                                                        |                                                                                          |                                                                      |                                                                                                                                                                                        |
+| project6                 |                                                        |                                                                                          |                                                                      |                                                                                                                                                                                        |
+
 
