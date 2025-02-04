@@ -6,7 +6,8 @@
 * Предобработать и изучить данные
 * Обучить модели линейных класификаторов и деревьев решений
 * Сравнить исходную зависимость Survived с выбранными параметрами от полученных зависимотей
-[TITANIC](https://github.com/olgavs69/pet-projects/tree/main/titanic)
+
+Решение (jupyter notebook): [TITANIC](https://github.com/olgavs69/pet-projects/tree/main/titanic)
 
 Стек: 
 * Python
