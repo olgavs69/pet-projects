@@ -47,7 +47,8 @@
 * Python (3.11.7)
 * pandas
 * numpy
-* sckit-learn
+* sckit-learn (LinearRegression, LogisticRegression, Lasso, Ridge, DecisionTree, RandomForestReggressor)
+* xgboost (XGBRegressor)
 * matplotlib/seaborn
 
 
