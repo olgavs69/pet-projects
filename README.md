@@ -41,7 +41,7 @@
 
 Исходные данные: [housesale.csv](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
-Решение (jupyter notebook):
+Решение (jupyter notebook): [HOUSEPRICE](https://github.com/olgavs69/pet-projects/tree/main/houseprice/houseprice.ipynb)
 
 Стек:
 * Python (3.11.7)
