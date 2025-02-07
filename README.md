@@ -57,9 +57,10 @@
 * Обучить модели кластеризаций и изучить результат их работы
 * Использовать модели для классификации данных по группам/кластерам
 
-Исходные данные:
+Исходные данные: [CUSTOMERPERSONA](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data)
 
-Решение (jupyter notebook):
+Решение (jupyter notebook): [personality](https://github.com/olgavs69/pet-projects/blob/main/customer%20personality/personality.ipynb)
+
 
 Стек:
 * Python (3.11.7)
