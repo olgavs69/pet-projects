@@ -76,7 +76,7 @@
 
 Исходные данные: [computer company](https://github.com/olgavs69/pet-projects/tree/main/computer%20company/data)
 
-Решение [pbix]: (https://github.com/olgavs69/pet-projects/blob/main/computer%20company/computer_company.pbix)
+Решение: [pbix](https://github.com/olgavs69/pet-projects/blob/main/computer%20company/computer_company.pbix)
 
 Стек:
 * Power BI
