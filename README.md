@@ -61,13 +61,27 @@
 
 Решение (jupyter notebook): [personality](https://github.com/olgavs69/pet-projects/blob/main/customer%20personality/personality.ipynb)
 
-
 Стек:
 * Python (3.11.7)
 * pandas
 * numpy
 * matplotlib/seaborn
+
   
+## 4. Дашборды (DA)
+Цель: 
+* создать сервер и заполнить БД
+* изучить данные
+* построить дашборды
+
+Исходные данные: [computer company](https://github.com/olgavs69/pet-projects/tree/main/computer%20company/data)
+
+Решение (pbix): [https://github.com/olgavs69/pet-projects/blob/main/computer%20company/computer_company.pbix]
+
+Стек:
+* Power BI
+* PostgreSQL 
+
 
 ## ДОПОЛНИТЕЛЬНО: Обработка и изучение данных - минипроекты (statistics)
 
